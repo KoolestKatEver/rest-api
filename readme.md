@@ -10,9 +10,9 @@
 
 **Environment Configuration**
 
-1. Install Python and Flask if not already installed. 
+1. Install dependencies needed to run the application 
 
-   pip install flask
+pip install -r requirements.txt
 
 **Running the Service Locally**
 
